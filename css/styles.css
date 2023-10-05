@@ -566,7 +566,7 @@ fill: #f4f4fd;
 
 .modal-btn-icon:hover,
 .modal-btn-icon:focus {
-   fill: #fff;
+   fill: #ffffff;
    border: none;
 }
 
@@ -589,7 +589,7 @@ fill: #f4f4fd;
 }
 
 .modal-form {
-
+    /* margin-bottom: 16px; */
 }
 
 .modal-input {
@@ -647,7 +647,7 @@ fill: #f4f4fd;
 }
 
 .modal-field {
-margin-bottom: 16px;
+   margin-bottom: 8px;
 }
 
 .modal-icon {
@@ -724,7 +724,7 @@ margin-bottom: 16px;
     color: #8e8f99;
 }
 
-.privacy-policy__text {
+.privacy-policy {
     margin-bottom: 0;
     color: #4D5AE5;
 }
