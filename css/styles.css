@@ -803,6 +803,7 @@ fill: #f4f4fd;
     font-weight: 500;
     font-size: 16px;
     border-radius: 4px;
+    min-width: 169px;
     cursor: pointer;
 }
 
